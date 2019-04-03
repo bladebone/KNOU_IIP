@@ -8,3 +8,15 @@
 
 - decisionBoundarySample.m - 수행코드
 - dataS1.mat - 샘플 데이터
+
+#### 2. 계층적 군집화 알고리즘 수행 및 덴드로그램 출력
+
+**HierarchicalClustering 폴더**
+
+입력 데이터의 차원이 1인 4개의 샘플에 대해 계층적 군집화 적용하고 덴드로그램으로 표현
+
+* hierarchical.m - Matlab code
+* hierarchicalOctave.m - Octave code
+* Dendrogram Example
+
+![Dendrogram Example](./HierarchicalClustering/DendrogramExam.png)
